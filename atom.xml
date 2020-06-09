@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://immocreat.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-09T04:50:41.999Z</updated>
+    <updated>2020-06-09T05:33:36.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://immocreat.github.io"/>
     <link rel="self" href="https://immocreat.github.io/atom.xml"/>
@@ -11,12 +11,37 @@
     <icon>https://immocreat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[第一篇Blog]]></title>
-        <id>https://immocreat.github.io/post/di-yi-pian-blog/</id>
-        <link href="https://immocreat.github.io/post/di-yi-pian-blog/">
+        <title type="html"><![CDATA[Hello Blog]]></title>
+        <id>https://immocreat.github.io/post/Hello Blog/</id>
+        <link href="https://immocreat.github.io/post/Hello Blog/">
         </link>
         <updated>2020-06-09T04:46:22.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/immocreat/Picbed_PicGo/master/TinternAbbey_ROW2379401796_1920x1200.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://raw.githubusercontent.com/immocreat/Picbed_PicGo/master/p1.jpg" alt="" loading="lazy"></figure>
+<h1 id="这是第一篇blog">这是第一篇Blog</h1>
+<p>建Blog的原因是在知乎上看到了一个问题——&quot;计算机专业学生在大学四年内可以做些什么来丰富简历&quot;</p>
+<p>有一个回答是这样的：</p>
+<blockquote>
+<p>技术人员建立一个个人博客，不仅可以巩固总结自己所学的知识，还能在面试时秀出自己。</p>
+<ul>
+<li>基础知识</li>
+<li>做一些开源项目</li>
+<li>建一个个人博客</li>
+<li>加入工作室</li>
+</ul>
+</blockquote>
+<p><a href="https://www.zhihu.com/question/64244262/answer/734224528">知乎链接</a></p>
+<p>所以，模仿各路大佬，这个博客的内容主要就是自己研究的知识吧，顺便锻炼一下写作能力。</p>
+<h1 id="感谢">感谢</h1>
+<p>感谢GitHub让我不用购买服务器也能搭建网站。</p>
+<p>感谢Gridea让我免去了写前端代码的繁琐</p>
+<p>搭建时参考了以下文章，感谢：</p>
+<p><a href="https://sspai.com/post/57164">参考文章</a></p>
+<h1 id="i-am-aaron-xie">I am Aaron Xie</h1>
+<p>最后还帮这个博客的主人找了个新的名字：</p>
+<blockquote>
+<p>Aaron Xie</p>
+<p>/'ɛərən/</p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
