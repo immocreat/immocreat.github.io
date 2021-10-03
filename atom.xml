@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://immocreat.github.io</id>
     <title>Aaron&apos;s Blog</title>
-    <updated>2021-10-03T04:01:24.551Z</updated>
+    <updated>2021-10-03T04:08:53.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://immocreat.github.io"/>
     <link rel="self" href="https://immocreat.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://immocreat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Aaron&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[【练习】怎样选择最合适地运行Python]]></title>
+        <title type="html"><![CDATA[【练习】怎样最合适地运行Python]]></title>
         <id>https://immocreat.github.io/post/lian-xi-zen-yang-xuan-ze-zui-he-gua-di-yun-xing-python/</id>
         <link href="https://immocreat.github.io/post/lian-xi-zen-yang-xuan-ze-zui-he-gua-di-yun-xing-python/">
         </link>
