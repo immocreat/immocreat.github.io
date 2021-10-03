@@ -2,14 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://immocreat.github.io</id>
     <title>Aaron&apos;s Blog</title>
-    <updated>2020-06-10T04:27:45.726Z</updated>
+    <updated>2021-10-03T04:01:24.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://immocreat.github.io"/>
     <link rel="self" href="https://immocreat.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://immocreat.github.io/images/avatar.png</logo>
     <icon>https://immocreat.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Aaron&apos;s Blog</rights>
+    <rights>All rights reserved 2021, Aaron&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[【练习】怎样选择最合适地运行Python]]></title>
+        <id>https://immocreat.github.io/post/lian-xi-zen-yang-xuan-ze-zui-he-gua-di-yun-xing-python/</id>
+        <link href="https://immocreat.github.io/post/lian-xi-zen-yang-xuan-ze-zui-he-gua-di-yun-xing-python/">
+        </link>
+        <updated>2021-10-03T03:19:19.000Z</updated>
+        <content type="html"><![CDATA[<p>Python是一门灵活的语言，与传统编程语言不同，它有多种运行方式。对于不同领域的用户，选择合适的运行方式能提高效率，方便使用、学习。本文对比介绍3种Python工作方式及其特点。</p>
+<h2 id="1-交互式方式repl">1. 交互式方式（REPL）</h2>
+<p>所谓REPL，即read, evaluate, print, loop。在交互式方式中，用户在命令行shell（如cmd）输入一条语句，Python解释器立即计算并打印出结果，如下图所示。</p>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/immocreat/Picbed_PicGo/img/202110031130042.png" alt="" loading="lazy"></figure>
+<p>但是，由于默认的交互式功能过于单一，出现一些有代码提示、多功能的shell，如：iPython</p>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/immocreat/Picbed_PicGo/img/202110031134197.png" alt="" loading="lazy"></figure>
+<p>它的特点是：</p>
+<ul>
+<li>立即执行用户输入，并立即作出反馈</li>
+</ul>
+<h2 id="2-脚本式">2. 脚本式</h2>
+<p>和传统的编程语言一样，用户将代码写成脚本文件（.py格式），Python程序可以完整地、顺序地执行文件中的代码。此种方式广泛应用于各种开发过程中。</p>
+<figure data-type="image" tabindex="3"><img src="https://cdn.jsdelivr.net/gh/immocreat/Picbed_PicGo/img/202110031152927.png" alt="" loading="lazy"></figure>
+<p>它的特点是：</p>
+<ul>
+<li>顺序、完整地执行准备好的脚本</li>
+</ul>
+<h2 id="3-jupyter-notebook">3. Jupyter Notebook</h2>
+<figure data-type="image" tabindex="4"><img src="https://cdn.jsdelivr.net/gh/immocreat/Picbed_PicGo/img/202110031137839.png" alt="" loading="lazy"></figure>
+<p>Jupyter Notebook分段组织代码，在数据科学、机器学习领域中十分常见，因其结合了上两种方法的优点。</p>
+<p>它的特点是：</p>
+<ul>
+<li>代码分段组织</li>
+<li>既能运行一段，也能运行全部</li>
+<li>能及时看到一段代码的运行结果，方便“看一步、写一步”</li>
+<li>自动保存运行结果：notebook自动保存运行结果，下次打开不用运行即可看到结果。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[合肥工大机器人足球仿真2D参考补充题目答案]]></title>
         <id>https://immocreat.github.io/post/solutions-of-hfut-robocup-course/</id>
