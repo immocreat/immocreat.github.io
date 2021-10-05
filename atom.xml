@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://immocreat.github.io</id>
     <title>Aaron&apos;s Blog</title>
-    <updated>2021-10-03T04:16:43.028Z</updated>
+    <updated>2021-10-05T08:21:25.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://immocreat.github.io"/>
     <link rel="self" href="https://immocreat.github.io/atom.xml"/>
@@ -10,6 +10,47 @@
     <logo>https://immocreat.github.io/images/avatar.png</logo>
     <icon>https://immocreat.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Aaron&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[【练习】计算机专业是修电脑的吗？]]></title>
+        <id>https://immocreat.github.io/post/lian-xi-ji-suan-ji-zhuan-ye-shi-xiu-dian-nao-de-ma/</id>
+        <link href="https://immocreat.github.io/post/lian-xi-ji-suan-ji-zhuan-ye-shi-xiu-dian-nao-de-ma/">
+        </link>
+        <updated>2021-10-05T07:17:17.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="练习计算机专业是修电脑的吗关于计算机科学的简要介绍">【练习】计算机专业是修电脑的吗？——关于“计算机科学”的简要介绍</h1>
+<p>作为一个计算机专业的学生，常被长辈问到这样的问题：“学计算机将来是修电脑吗？”。有这样的认知当然不能责怪他们，毕竟在很多地区，将“计算机”和“就业”联系起来，第一个想到的“修电脑”了。</p>
+<p>但作为在此专业学习三年的学生，有必要对“计算机专业是做什么的？”作出一个回答。</p>
+<h2 id="1-主要研究问题">1. 主要研究问题</h2>
+<p>计算机科学（Computer Science）主要研究下列问题：</p>
+<ul>
+<li>①信息与计算的<strong>理论</strong></li>
+<li>②信息与计算的理论在计算机系统中的<strong>实现与应用</strong></li>
+</ul>
+<p>注：另一个相近的学科是“计算机工程（Computer Engineering）”。对于同一个主题，“科学”与“工程”的侧重点往往不同。</p>
+<h3 id="11-信息与计算的理论">1.1 信息与计算的理论</h3>
+<p>如：</p>
+<ul>
+<li>在计算机中表示和存储数据的理论。</li>
+<li>怎样通过二进制计算进行逻辑计算、初等数学计算、代数计算？（计算理论）</li>
+<li>图像、声音怎样通过二进制表示？</li>
+<li>研究信息规律的理论。（信息论）</li>
+<li>编程语言（如Python）、编译器</li>
+</ul>
+<h3 id="12-信息与计算的理论在计算机系统中的实现与应用">1.2 信息与计算的理论在计算机系统中的实现与应用</h3>
+<p>如：</p>
+<ul>
+<li>怎样通过硬件表示数据？</li>
+<li>怎样通过电路的变换进行计算？如何提高计算速度？</li>
+<li>人工智能</li>
+<li>多媒体技术</li>
+<li>机器学习</li>
+</ul>
+<h2 id="2-几个常见误区">2. 几个常见误区</h2>
+<h3 id="21-误区与计算机有关的问题都属于计算机科学">2.1 误区：与计算机有关的问题都属于计算机科学</h3>
+<p>比如，设计、部署计算机常被认为是“计算机工程”的一部分，而并非计算机科学的领域。“科学”相比“工程”而言，更注重怎样利用现有知识创新，而不仅仅是对现有知识的理解和应用。</p>
+<h3 id="22-误区与计算机无关的问题就不属于计算机科学">2.2 误区：与计算机无关的问题就不属于计算机科学</h3>
+<p>这里的“无关”指与计算机硬件无关，误解因此产生。如由香农创建的信息论，它是是应用数学、电子学和计算机科学的一个分支，涉及信息的量化、存储和通信等，研究诸如数据压缩、编码等问题。虽然它与“看得见摸得着的”计算机硬件关系不大，但仍然是计算机科学研究的一个重要分支。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【练习】怎样最合适地运行Python]]></title>
         <id>https://immocreat.github.io/post/lian-xi-zen-yang-xuan-ze-zui-he-gua-di-yun-xing-python/</id>
